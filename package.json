@@ -1,0 +1,19 @@
+{
+  "name": "ndse_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "date.js",
+  "bin": {
+    "current": "./date-current.js",
+    "add": "./add.js",
+    "sub": "./sub.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
